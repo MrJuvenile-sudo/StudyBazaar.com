@@ -1,2 +1,2 @@
-# StudyBazar.com
+# StudyBazaar.com
 Free study material for all 
